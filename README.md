@@ -1,7 +1,7 @@
 # COVID-19 TRACKER
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Covid-19%20Tracker&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Linkedin%20Clone&fontSize=90)
 
 ## ✅ Goal
 To create an Application that tracks Covid cases in different Countries
